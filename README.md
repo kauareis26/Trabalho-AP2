@@ -28,3 +28,5 @@ Use * ao final de um codigo incompleto para ver todas as possiveis traduções p
 ## Integrantes do grupo
 Pedro Henrique da Silva Dias 
 Ra: 10769835
+Kauã dos Reis de Castro Souza
+Ra:10738693
